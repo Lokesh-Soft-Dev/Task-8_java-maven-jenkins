@@ -53,6 +53,11 @@ Task-8_java-maven-jenkins/
 4. **Jenkins with Maven?** - Uses Maven plugin for builds
 5. **Compile vs Package?** - Compile creates classes, Package creates JAR
 6. **Tools configuration?** - Manage Jenkins → Global Tool Configuration
+<hr>
+
+## OUTPUT IMAGES
+<img width="749" height="132" alt="Screenshot 2025-11-09 002918" src="https://github.com/user-attachments/assets/bc3762e2-478e-48e4-a3e7-b4e34a147a3c" />
+<hr>
 
 ## 🎯 TASK 8 COMPLETED !
 
