@@ -7,12 +7,13 @@
 - **Repository:** `Task-8_java-maven-jenkins`
 
 ## 🏗️ Project Structure
-Task-8_java-maven-jenkins/
-├── src/main/java/
-│ └── HelloWorld.java
-├── pom.xml
+Task-8_java-maven-jenkins/  
+├── src/  
+│   └── main/  
+│       └── java/  
+│           └── HelloWorld.java  
+├── pom.xml  
 └── README.md
-
 
 ## 🚀 Jenkins Setup
 
@@ -53,7 +54,7 @@ Task-8_java-maven-jenkins/
 5. **Compile vs Package?** - Compile creates classes, Package creates JAR
 6. **Tools configuration?** - Manage Jenkins → Global Tool Configuration
 
-🎯 TASK 8 COMPLETED !
+## 🎯 TASK 8 COMPLETED !
 
 ✅ Created Java Maven project
 
