@@ -56,6 +56,8 @@ Task-8_java-maven-jenkins/
 <hr>
 
 ## OUTPUT IMAGES
+<img width="992" height="443" alt="Screenshot 2025-11-09 001947" src="https://github.com/user-attachments/assets/7d15c0b0-1c80-49b7-953a-f2fc2d68965d" />
+<hr>
 <img width="749" height="132" alt="Screenshot 2025-11-09 002918" src="https://github.com/user-attachments/assets/bc3762e2-478e-48e4-a3e7-b4e34a147a3c" />
 <hr>
 
